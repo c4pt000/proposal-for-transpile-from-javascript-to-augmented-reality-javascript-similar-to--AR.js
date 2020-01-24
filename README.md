@@ -1,4 +1,5 @@
 # babel plugin possibly or otherwise, similar about half a dozen current javascript transpilers
+https://babeljs.io/
 # babel javascript to modern javascript but instead javascript to AR.js framework?
 # for ease of cordova export to AR enabled devices like android / ios / others
 # since cordova is html/js export path to phones
