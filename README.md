@@ -1,3 +1,5 @@
+# babel plugin possibly or otherwise, similar about half a dozen current javascript transpilers
+
 # not pseudocode but as a pseudotheory of software, (too many projects of different direction personally)
 
 # proposal-for-transpile-from-javascript-to-augmented-reality-javascript-similar-to--AR.js
